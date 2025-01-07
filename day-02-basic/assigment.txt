@@ -1,0 +1,27 @@
+========================================
+
+1st - find out prime number via 
+
+for, while, until 
+
+
+
+2nd - find range of prime number via 
+
+external-loop = for 
+
+internal-loops = for, while, until 
+
+
+
+external-loop = while  
+
+internal-loops = for, while, until 
+
+
+
+external-loop = until 
+
+internal-loops = for, while, until 
+
+
