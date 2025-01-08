@@ -1,0 +1,22 @@
+###########
+Prime no - via foreach 
+Prime no - via while 
+Prime no - via until 
+
+
+
+Prime no range 
+Outer-loop for 
+Inner-loop for, while, until 
+
+
+
+Prime no range 
+Outer-loop while  
+Inner-loop for, while, until 
+
+
+
+Prime no range 
+Outer-loop until
+Inner-loop for, while, until
